@@ -1,0 +1,68 @@
+[
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Settings – Default",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/{{ cookiecutter.plugin_name }}/{{ cookiecutter.plugin_name }}.sublime-settings"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Settings – User",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/User/{{ cookiecutter.plugin_name }}.sublime-settings"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – Default",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/{{ cookiecutter.plugin_name }}/Default (Linux).sublime-keymap",
+    //         "platform": "Linux"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – User",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/User/Default (Linux).sublime-keymap",
+    //         "platform": "Linux"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – Default",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/{{ cookiecutter.plugin_name }}/Default (OSX).sublime-keymap",
+    //         "platform": "OSX"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – User",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/User/Default (OSX).sublime-keymap",
+    //         "platform": "OSX"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – Default",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/{{ cookiecutter.plugin_name }}/Default (Windows).sublime-keymap",
+    //         "platform": "Windows"
+    //     }
+    // },
+    // {
+    //     "caption": "Preferences: {{ cookiecutter.plugin_name }} Key Bindings – User",
+    //     "command": "open_file", "args":
+    //     {
+    //         "file": "${packages}/User/Default (Windows).sublime-keymap",
+    //         "platform": "Windows"
+    //     }
+    // },
+    // {
+    //     "caption": "{{ cookiecutter.plugin_name }}: Command name",
+    //     "command": "{{ cookiecutter.plugin_internal_name }}_do"
+    // }
+]

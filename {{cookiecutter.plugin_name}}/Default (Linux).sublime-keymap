@@ -1,0 +1,6 @@
+[
+    // {
+    //     "keys": ["crtl+alt+a"],
+    //     "command": "{{ cookiecutter.plugin_internal_name|replace('-', '_') }}_do"
+    // }
+]

@@ -1,0 +1,48 @@
+[
+    // {
+    //     "id": "tools",
+    //     "children":
+    //     [
+    //         {
+    //             "caption": "{{ cookiecutter.plugin_name }}",
+    //             "children":
+    //             [
+    //                 { "caption": "Command name", "command": "{{ cookiecutter.plugin_internal_name }}_do" }
+    //             ]
+    //         }
+    //     ]
+    // },
+    // {
+    //     "caption": "Preferences",
+    //     "mnemonic": "n",
+    //     "id": "preferences",
+    //     "children":
+    //     [
+    //         {
+    //             "caption": "Package Settings",
+    //             "mnemonic": "P",
+    //             "id": "package-settings",
+    //             "children":
+    //             [
+    //                 {
+    //                     "caption": "{{ cookiecutter.plugin_name }}",
+    //                     "children":
+    //                     [
+    //                         {
+    //                             "command": "open_file",
+    //                             "args": {"file": "${packages}/{{ cookiecutter.plugin_name }}/{{ cookiecutter.plugin_name }}.sublime-settings"},
+    //                             "caption": "Settings – Default"
+    //                         },
+    //                         {
+    //                             "command": "open_file",
+    //                             "args": {"file": "${packages}/User/{{ cookiecutter.plugin_name }}.sublime-settings"},
+    //                             "caption": "Settings – User"
+    //                         },
+    //                         { "caption": "-" }
+    //                     ]
+    //                 }
+    //             ]
+    //         }
+    //     ]
+    // }
+]
