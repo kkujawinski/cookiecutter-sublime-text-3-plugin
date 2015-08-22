@@ -2,7 +2,7 @@
 cookiecutter-sublime-text-3-plugin
 ==================================
 
-Cookiecutter template for a Sublime Text 3 plugin.
+Cookiecutter template for a Sublime Text 3 plugin. See https://github.com/audreyr/cookiecutter.
 
 * Free software: BSD license
 
