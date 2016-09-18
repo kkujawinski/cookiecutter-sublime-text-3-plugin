@@ -27,7 +27,7 @@ Generate a Python package project::
 
 Then:
 
-* Uncomment functionality in cofiguration files:
+* Uncomment functionality in configuration files:
 
     * Default plugin settings in `*.sublime-settings`,
     * Plugin key binding in * `($platform).sublime-keymap`,
