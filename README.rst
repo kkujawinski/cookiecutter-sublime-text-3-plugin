@@ -23,7 +23,7 @@ Go to you Sublime Packages directory::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/kkujawinski/cookiecutter-sublime-text-3-plugin.git
+    cookiecutter https://github.com/artwr/cookiecutter-sublime-text-3-plugin.git
 
 Then:
 
